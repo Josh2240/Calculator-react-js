@@ -7,6 +7,7 @@
     "build": "npm --prefix my-calculator run build",
     "start": "npm --prefix my-calculator run start",
     "preview": "npm --prefix my-calculator run preview",
-    "lint": "npm --prefix my-calculator run lint"
+    "lint": "npm --prefix my-calculator run lint",
+    "lint:fix": "eslint . --ext .ts,.tsx.js,.jsx --fix"
   }
 }
