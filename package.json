@@ -1,0 +1,12 @@
+{
+  "name": "it-elec-4-preliminary-exam",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix my-calculator run dev",
+    "build": "npm --prefix my-calculator run build",
+    "start": "npm --prefix my-calculator run start",
+    "preview": "npm --prefix my-calculator run preview",
+    "lint": "npm --prefix my-calculator run lint"
+  }
+}
